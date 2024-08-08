@@ -27,6 +27,9 @@ This repository includes Python scripts and a dataset that enables the analysis 
 - Electric Range Analysis: Assessing the electric range of vehicles and technological advancements over time.
 - Estimated Market Size: Forecasting the future market size based on historical data.
 ## Dataset
+- The dataset is availbale on this link: 
+https://statso.io/market-size-of-evs-case-study/
+
 The dataset used in this analysis includes the following columns:
 
 - VIN (1-10): Partial Vehicle Identification Number.
